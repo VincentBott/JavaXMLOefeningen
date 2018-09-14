@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><films>
+    <film>
+        <titel>Star Trek IV</titel>
+        <jaar>1986</jaar>
+        <regisseur>Leonard Nimoy</regisseur>
+    </film>
+    <film>
+        <titel>Star Wars IV</titel>
+        <jaar>1977</jaar>
+        <regisseur>George Lucas</regisseur>
+    </film>
+</films>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><films>
+    <film>
+        <titel>Rambo</titel>
+        <jaar>1985</jaar>
+        <regisseur>Sylvester Stallone</regisseur>
+    </film>
+    <film>
+        <titel>Jurassic Park</titel>
+        <jaar>1995</jaar>
+        <regisseur>Steven Spielberg</regisseur>
+    </film>
+</films>
